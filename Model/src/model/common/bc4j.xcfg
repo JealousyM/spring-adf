@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BC4JConfig version="11.1" xmlns="http://xmlns.oracle.com/bc4j/configuration">
+   <AppModuleConfigBag ApplicationName="model.AppModule">
+      <AppModuleConfig name="AppModuleLocal"/>
+      <AppModuleConfig name="AppModuleShared"/>
+   </AppModuleConfigBag>
+</BC4JConfig>

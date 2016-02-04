@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<faces-config version="2.2" xmlns="http://java.sun.com/xml/ns/javaee">
+  <application>
+    <default-render-kit-id>oracle.adf.rich</default-render-kit-id>
+    <el-resolver>org.springframework.web.jsf.el.SpringBeanFacesELResolver</el-resolver>
+  </application>
+</faces-config>
